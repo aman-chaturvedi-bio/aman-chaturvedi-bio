@@ -15,9 +15,10 @@ I am passionate about building practical Artificial Intelligence solutions that 
 * **Development:** Gradio, Data Visualization, Git
 
 ### 🎓 Academic Background
-* **Education:** REVA University, Bengaluru (Current SGPA: 9.45)
+* **Education:** REVA University, Bengaluru (Current SGPA: 9.63)
 * **Upcoming:** Selected for a Technical Training Internship at the National Centre for Biological Sciences (NCBS).
 
-### 📫 Connect with Me
-* **LinkedIn:** `linkedin.com/in/aman-chaturvedi-941787344`
-* **Email:** chaturvediaman36@gmail.com
+* ## 📫 Connect with Me
+
+- **LinkedIn:** [Aman Chaturvedi](https://www.linkedin.com/in/aman-chaturvedi-941787344)
+- **Email:** [chaturvediaman36@gmail.com](mailto:chaturvediaman36@gmail.com)
