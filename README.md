@@ -8,6 +8,7 @@ I am passionate about building practical Artificial Intelligence solutions that 
 * **CampusPulse Pro:** An AI-powered preventive health and medical routing dashboard for university campuses. Built with Python, Gradio, and Scikit-Learn utilizing Unsupervised Machine Learning (Isolation Forests) for anomaly detection.
 * **BreedVision-AI:** A computer vision platform designed for accurate cattle breed recognition. Selected for poster presentation at the national level symposium, "The Bio-AI Pulse" at SIT Tumakuru.
 * **AgroNutriX:** A "Soil-to-Stomach" wellness and ag-tech tracking platform. (🏆 2nd Prize Winner at the GenesisX Ideathon).
+* **OmicsLite Pro:** A lightweight multi-omics CLI engine built with Python, Bash, and Biopython for fast FASTA analysis, ORF detection, protein translation, and biophysical property prediction.
 
 ### 💻 Tech Stack
 * **Languages:** Python
